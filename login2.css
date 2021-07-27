@@ -1,0 +1,173 @@
+body
+{
+    margin-top: -22px;
+    margin-left: 0px;
+    height: 20vh;
+}
+.container
+{
+    height:105.8vh;
+    background-color: #0d0f12;
+    width: 630px;
+    
+}
+.main
+{
+    display: flex;
+}
+
+.logo img
+{
+     text-align: center;
+    margin-top: 100px;
+    height:60px;
+    margin-left: 120px;
+}
+
+.mail label
+{
+    margin-top: 55px;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+.mail input
+{
+    height: 34px;
+    width: 360px;
+    background-color: black;
+    border-radius: 3px;
+    border-color: white;
+    border-width: 2px;
+    margin-left: 100px;
+}
+.mail2 label
+{
+    margin-top: 30px;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+.mail2 input
+{
+    height: 34px;
+    width: 360px;
+    background-color: black;
+    border-radius: 3px;
+    border-color: white;
+    border-width: 2px;
+    margin-left: 100px;
+}
+.sign
+{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.sign input
+{
+    height: 43px;
+    width: 369px;
+    border-width: 2px;
+    border-color:black;
+    background:  #0074ab;;
+    border-radius: 3px;
+    font-size: 17px;
+    color: white;
+}
+.forgot
+{
+    color: #2ea0d6;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+}
+.forgot2
+{
+    margin-top: 14px;
+    color: #2ea0d6;
+    text-align: center;
+    
+    font-size: 22px;
+}
+
+hr.one 
+{
+    flex: auto;
+    margin-left: 100px;
+    border: none;
+    height: 1px;
+    background:slategray;
+    width: 365px;
+    margin-top: -11px;
+}
+.dsc
+{  
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.dsc input
+{
+    height: 43px;
+    width: 369px;
+    border-width: 2px;
+    border-color:black;
+    background: rgba(138,153,168,.25);
+    border-radius: 3px;
+    font-size: 17px;
+    color: hsla(0,0%,100%,.95);
+}
+.para1 p{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 13px;
+    margin-left: -38px;
+}
+.para p{
+    color: white;
+    text-align: center;
+    margin-top: -10px;
+    font-size: 13px;
+    margin-left: -38px;
+}
+.rb 
+{
+   width: 60%;
+   height: 105.8vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color: black;
+   background-image: url( https://www.pluralsight.com/content/dam/pluralsight2/login/bg-gtm-2020.png);
+  
+}
+.rb img
+{
+   margin-top: 220px; 
+   margin-left: 70px;
+}
+#free input
+{
+    margin-top: 20px;
+    width: 220px;
+    height: 40px;
+    margin-left: 70px;
+    background:linear-gradient(to right,#F05A28,#EC008C,#F05A28);
+    padding: 12px 80px;
+    border-radius: 3px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    border-color: black;
+
+}
+#build img
+{
+    margin-left: 670px;
+    margin-top: 120px;
+    width: 160px;
+}
